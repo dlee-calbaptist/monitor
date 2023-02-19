@@ -7,7 +7,14 @@ sites:
     url: https://www.calbaptist.edu
   - name: InsideCBU
     url: https://insidecbu.calbaptist.edu
+  - name: CBU Online Website
+    url: https://cbuonline.edu
+  - name: CalBaptist Box.com
+    url: https://calbaptist.app.box.com
+   - name: Blackboard Learn
+    url: https://calbaptist.blackboard.com   
 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
