@@ -11,7 +11,7 @@ sites:
     url: https://cbuonline.edu
   - name: CalBaptist Box.com
     url: https://calbaptist.app.box.com
-   - name: Blackboard Learn
+  - name: Blackboard Learn
     url: https://calbaptist.blackboard.com   
 
     
