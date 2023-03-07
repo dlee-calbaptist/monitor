@@ -10,11 +10,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 798,
-    "timeDay": 861,
-    "timeWeek": 821,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "time": 797,
+    "timeDay": 847,
+    "timeWeek": 820,
+    "timeMonth": 797,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-03-04": 27
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/insidecbu.calbaptist.edu.ico",
     "slug": "inside-cbu",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 668,
-    "timeDay": 831,
-    "timeWeek": 664,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 667,
+    "timeDay": 828,
+    "timeWeek": 665,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2023-03-04": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1095,
-    "timeDay": 1155,
-    "timeWeek": 1086,
-    "timeMonth": 1095,
-    "timeYear": 1095,
+    "time": 1094,
+    "timeDay": 1129,
+    "timeWeek": 1084,
+    "timeMonth": 1094,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2023-03-04": 25
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 647,
-    "timeWeek": 605,
+    "timeDay": 640,
+    "timeWeek": 604,
     "timeMonth": 597,
     "timeYear": 597,
     "dailyMinutesDown": {}
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 236,
-    "timeWeek": 260,
+    "timeDay": 239,
+    "timeWeek": 259,
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {}
