@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.calbaptist.edu.ico",
     "slug": "cal-baptist-main-website",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 793,
-    "timeDay": 788,
-    "timeWeek": 831,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 794,
+    "timeDay": 778,
+    "timeWeek": 832,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2023-03-04": 27
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 671,
-    "timeDay": 853,
+    "timeDay": 848,
     "timeWeek": 710,
     "timeMonth": 671,
     "timeYear": 671,
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1088,
-    "timeDay": 1049,
-    "timeWeek": 1100,
-    "timeMonth": 1088,
-    "timeYear": 1088,
+    "time": 1089,
+    "timeDay": 1017,
+    "timeWeek": 1094,
+    "timeMonth": 1089,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2023-03-04": 25
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 647,
-    "timeWeek": 612,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "time": 599,
+    "timeDay": 646,
+    "timeWeek": 611,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
+    "time": 305,
     "timeDay": 311,
-    "timeWeek": 246,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "timeWeek": 245,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]
