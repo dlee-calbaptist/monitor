@@ -12,7 +12,7 @@
     "uptimeYear": "99.90%",
     "time": 792,
     "timeDay": 804,
-    "timeWeek": 822,
+    "timeWeek": 816,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.90%",
     "time": 664,
     "timeDay": 729,
-    "timeWeek": 693,
+    "timeWeek": 701,
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cbuonline.edu.ico",
     "slug": "cbu-online-website",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.74%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1086,
     "timeDay": 1068,
-    "timeWeek": 1082,
+    "timeWeek": 1085,
     "timeMonth": 1086,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2023-03-10": 0,
+      "2023-03-10": 43,
       "2023-03-04": 25
     }
   },
@@ -73,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 624,
-    "timeWeek": 606,
+    "timeWeek": 609,
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {}
@@ -91,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 270,
-    "timeWeek": 249,
+    "timeWeek": 244,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {}
