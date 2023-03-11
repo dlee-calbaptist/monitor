@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 790,
-    "timeDay": 726,
-    "timeWeek": 819,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "time": 789,
+    "timeDay": 711,
+    "timeWeek": 807,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2023-03-04": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 659,
-    "timeDay": 555,
-    "timeWeek": 655,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "time": 658,
+    "timeDay": 525,
+    "timeWeek": 652,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2023-03-04": 26
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cbuonline.edu.ico",
     "slug": "cbu-online-website",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 1086,
-    "timeDay": 1055,
-    "timeWeek": 1090,
-    "timeMonth": 1086,
-    "timeYear": 1086,
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1085,
+    "timeDay": 1030,
+    "timeWeek": 1089,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2023-03-10": 64,
       "2023-03-04": 25
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 568,
-    "timeWeek": 609,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "time": 600,
+    "timeDay": 577,
+    "timeWeek": 611,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 305,
-    "timeWeek": 242,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 300,
+    "timeDay": 338,
+    "timeWeek": 246,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   }
 ]
