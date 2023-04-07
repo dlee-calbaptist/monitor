@@ -1,7 +1,7 @@
 url: https://cbuonline.edu
-status: up
-code: 200
-responseTime: 2287
-lastUpdated: 2023-04-07T07:05:52.715Z
+status: down
+code: 500
+responseTime: 16039
+lastUpdated: 2023-04-07T07:45:46.681Z
 startTime: Sun Feb 19 2023 18:39:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
