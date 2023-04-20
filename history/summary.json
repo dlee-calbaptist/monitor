@@ -92,18 +92,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/calbaptist.blackboard.com.ico",
     "slug": "blackboard-learn",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 343,
     "timeDay": 460,
     "timeWeek": 362,
     "timeMonth": 363,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-04-20": 19
+      "2023-04-20": 25
     }
   }
 ]
