@@ -1,7 +1,7 @@
 url: https://insidecbu.calbaptist.edu
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2023-08-23T22:05:14.596Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2023-08-23T22:54:43.806Z
 startTime: 2023-02-19T17:35:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
