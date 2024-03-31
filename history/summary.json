@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
     "time": 702,
-    "timeDay": 720,
-    "timeWeek": 655,
+    "timeDay": 710,
+    "timeWeek": 662,
     "timeMonth": 660,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -41,8 +41,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.42%",
     "time": 515,
-    "timeDay": 528,
-    "timeWeek": 504,
+    "timeDay": 530,
+    "timeWeek": 508,
     "timeMonth": 510,
     "timeYear": 515,
     "dailyMinutesDown": {
@@ -70,13 +70,13 @@
     "slug": "cbu-online-website",
     "status": "up",
     "uptime": "96.24%",
-    "uptimeDay": "49.75%",
+    "uptimeDay": "58.20%",
     "uptimeWeek": "92.61%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "95.84%",
     "time": 998,
-    "timeDay": 846,
-    "timeWeek": 830,
+    "timeDay": 864,
+    "timeWeek": 838,
     "timeMonth": 859,
     "timeYear": 999,
     "dailyMinutesDown": {
@@ -124,8 +124,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 720,
-    "timeWeek": 564,
+    "timeDay": 718,
+    "timeWeek": 566,
     "timeMonth": 548,
     "timeYear": 615,
     "dailyMinutesDown": {
@@ -146,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 205,
-    "timeWeek": 246,
+    "timeDay": 202,
+    "timeWeek": 241,
     "timeMonth": 257,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-04-20": 19
     }
